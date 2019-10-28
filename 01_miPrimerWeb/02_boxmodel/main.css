@@ -1,0 +1,58 @@
+{
+
+}
+
+header{
+    border: solid p2x red
+}
+
+nav{
+    border: solid 2px green
+}
+a{
+    border: solid p2x black
+    
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+}
+
+.parrafoUno{
+    font-size: 30px;
+    border: solid 
+}
+.parrafoDos{
+    font-size: 40px;
+}
+
+.Portada{
+    width:250px;
+    height: 250px;
+}
+
+
+.Motocicleta{
+    width: 150px;
+    height: 150px;
+}
+
+.Presentacion{
+    width: 350px;
+    height: 350px;
+
+}
+
+
+.buttonContainer{
+    margin: 200px;
+    
+}
+    
+    
+
+
+
+
+    

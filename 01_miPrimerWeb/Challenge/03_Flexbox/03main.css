@@ -1,0 +1,55 @@
+body{
+    display: flex;
+
+}
+.izquierda{
+    border: solid 2px blue;
+    height: 100vh;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+
+}
+
+.blanco{
+    border: solid 2px black;
+    width: 80%;
+    height: 45%;
+
+}
+.rojo{
+    border: solid 2px red;
+    width: 80%;
+    height: 80%;
+    background-color: red;
+
+}
+
+.derecha{
+    border: solid px2 violet;
+    width: 70%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+
+}
+
+.BLANCOGRANDE{
+    border: solid 2px green;
+
+}
+
+.ROJOGRANDE{
+    border: solid 2px yellow;
+}
+
+
+
+
+
+
+
