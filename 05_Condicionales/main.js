@@ -70,7 +70,8 @@
 //} else if( player1 === "tijeras" && player2 === "piedra") {
   //console.log("Gana player2")
 //} else if(player1 === "papel" && player2 === "piedra") {
-
+  //console.log("Gana player1") {
+//} else if
 //}
 
 let usuario = prompt("Introdusca contraseña")
